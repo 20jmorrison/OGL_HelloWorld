@@ -1,0 +1,3 @@
+/Users/jaredmorrison/Desktop/OGL_HelloWorld/cmake-build-debug/CMakeFiles/OGL_HelloWorld.dir
+/Users/jaredmorrison/Desktop/OGL_HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jaredmorrison/Desktop/OGL_HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
